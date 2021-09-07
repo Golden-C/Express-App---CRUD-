@@ -1,0 +1,40 @@
+[
+ {
+  "organization": "ChiChi Tech",
+  "products": [
+   "First Programmer",
+   "Bronch"
+  ],
+  "marketValue": "40%",
+  "address": "Second Lekki",
+  "ceo": "bn",
+  "country": "Nigeria",
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ],
+  "id": 3,
+  "createdAt": "2021-08-12T14:08:50.394Z",
+  "updatedAt": "2021-08-12T14:08:50.394Z"
+ },
+ {
+  "organization": "ChiChi Tech",
+  "products": [
+   "First Programmer",
+   "Bronch"
+  ],
+  "marketValue": "40%",
+  "address": "Second Lekki",
+  "ceo": "bn",
+  "country": "Nigeria",
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ],
+  "id": 3,
+  "createdAt": "2021-08-12T14:48:54.118Z",
+  "updatedAt": "2021-08-12T14:48:54.118Z"
+ }
+]
